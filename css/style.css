@@ -1,0 +1,23 @@
+body {
+    background-color: #082d41;
+    color: white;
+    border-color: #83cd48;
+    text-align: center;
+    margin-top: 200px;
+    
+    
+
+}
+
+h2{
+    align-items: center;
+    color: #159be7;
+    font-size: 35px;
+   
+}
+form {
+    color: #83cd48;
+    align-items: center;
+
+
+}
